@@ -1,0 +1,26 @@
+#game {
+  width: 500px;
+  height: 500px;
+  position: relative;
+}
+
+#startBtn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#box {
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  background-color: green;
+}
+
+#restartBtn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate
+}
